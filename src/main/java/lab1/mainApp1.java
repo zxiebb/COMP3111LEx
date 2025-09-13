@@ -4,6 +4,7 @@ public class mainApp1 {
     public static void main(String[] args) {
         int b = 2;
         int n = 11;
+        System.out.println("third version");
         System.out.println("Program..starting");
         System.out.println("1+1="+2);
         System.out.println(b+" to power "+n+" = "+ myLibrary.Power(b,n));
